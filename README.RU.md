@@ -2,7 +2,7 @@
 [![Latest Stable Version](https://poser.pugx.org/horat1us/map-iterator/version)](https://packagist.org/packages/horat1us/map-iterator)
 [![Total Downloads](https://poser.pugx.org/horat1us/map-iterator/downloads)](https://packagist.org/packages/horat1us/map-iterator)
 [![codecov](https://codecov.io/gh/Horat1us/map-iterator/branch/master/graph/badge.svg?token=MnQVUwASBj)](https://codecov.io/gh/Horat1us/map-iterator)
-[![Test Package](https://github.com/Horat1us/map-iterator/actions/workflows/test.yml/badge.svg?event=release)](https://github.com/Horat1us/map-iterator/actions/workflows/test.yml)
+[![Test Package](https://github.com/Horat1us/map-iterator/actions/workflows/test.yml/badge.svg)](https://github.com/Horat1us/map-iterator/actions/workflows/test.yml)
 
 Итераторы для преобразования всех элементов дочернего итератора.
 
